@@ -8,7 +8,9 @@ public class Hello {
 		System.out.println("hello java class");
 		
 		
-		System.out.println("test merge conflicts");
+
+		System.out.println("test merge conflicts1");
+		System.out.println("test merge conflicts2");
 	}
 
 }
