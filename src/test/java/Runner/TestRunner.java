@@ -1,6 +1,7 @@
 package Runner;
 
-public class TestRunner {
+public class TestRunner 
+{
 	
 	public void display()
 	{
@@ -9,5 +10,4 @@ public class TestRunner {
 		System.out.println("Hello WebAutomation from dishant");
 		System.out.println("Hello WebAutomation from Surinder");
 	}
-
 }
